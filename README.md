@@ -1,16 +1,54 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
 
-<!--
-**RTSmith801/RTSmith801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<head>
+    <!--
+    GitHub Profile
+    Author: Rick Smith
+    Date: 03/123/2024  
+    Project: github.comRTSmith801/RTSmith801
+    -->
+    <meta charset="utf-8">
+</head>
 
-Here are some ideas to get you started:
+<body>
+    <header>
+        <a href="https://pixeltapestry.com/cv" target="_blank">
+            <img src="https://pixeltapestry.com/wp-content/uploads/2023/09/Pixel_Tapestry_logo_yellow-e1694147529595.png" style="height: 50px; width: auto;" alt="Pixel Tapestry Logo">
+        </a>
+        <h1>Hello, my name is Rick.</h1>
+        <p>I am an enthusiastic software developer with a passion for crafting exceptional web solutions.</p>
+    </header>
+    <main>
+        <div align="center">
+            <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="auto" />
+        </div>
+        <div align="center">
+            <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=RTSmith801&theme=solarized-dark&border_radius=3&mode=weekly" alt="GitHub Streak" /></a>
+        </div>
+        <div align="center">
+            <a href="https://www.linkedin.com/in/rtsmith801/">
+                <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+            </a>
+            <a href="https://www.youtube.com/@RTSmith801">
+                <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge">
+            </a>
+        </div>
+        <div align="center">
+            <h3>
+                <p>Languages and Tools</p>
+            </h3>
+            <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40">&nbsp;
+            <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" alt="Unity" width="40" height="40">&nbsp;
+            <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40">&nbsp;
+            <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40">&nbsp;
+            <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40">&nbsp;
+            <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40">&nbsp;
+            <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40">&nbsp;
+            <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40">&nbsp;
+            <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40">
+        </div>
+    </main>
+</body>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</html>
