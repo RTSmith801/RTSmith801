@@ -27,14 +27,6 @@
             <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=RTSmith801&theme=solarized-dark&border_radius=3&mode=weekly" alt="GitHub Streak" /></a>
         </div>
         <div align="center">
-            <a href="https://www.linkedin.com/in/rtsmith801/">
-                <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-            </a>
-            <a href="https://www.youtube.com/@RTSmith801">
-                <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge">
-            </a>
-        </div>
-        <div align="center">
             <h3>
                 <p>Languages and Tools</p>
             </h3>
@@ -47,8 +39,20 @@
             <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40">&nbsp;
             <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40">&nbsp;
             <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40">
-        </div>
+        </div>           
     </main>
+    <details>
+        <summary><h3>Contact Me</h3></summary>
+            <p>I am actively seeking new opportunities in the realms of software development and large-scale web projects. I thrive on challenges that inspire innovation and bring out the best in my skills. Whether it’s crafting robust software solutions or developing dynamic websites, I’m always eager to explore projects that push boundaries.</p>
+            <p>Feel free to delve into my portfolio for a glimpse into my past projects, showcasing a diverse range of endeavors. If you’re looking for a dedicated professional with a proven track record of delivering excellence, let’s connect. Whether you have questions or are ready to embark on a new software or web development journey together, I’m here and excited for the possibilities.</p>
+            <p>Thank you for considering me as your partner in software and web development.</p>
+            <p>Best regards,<br>Rick Smith</p>
+            <div align="left">
+            <a href="https://www.linkedin.com/in/rtsmith801/">
+                <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+            </a>        
+        </div>
+    </details>     
 </body>
 
 </html>
