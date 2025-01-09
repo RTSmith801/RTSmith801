@@ -14,7 +14,7 @@
 <body>
     <header>
         <a href="https://pixeltapestry.com/cv" target="_blank">
-            <img src="https://pixeltapestry.com/wp-content/uploads/2023/09/Pixel_Tapestry_logo_yellow-e1694147529595.png" style="height: 50px; width: auto;" alt="Pixel Tapestry Logo">
+            <img src="https://pixeltapestry.com/images/Pixel_Tapestry_logo_yellow-e1694147529595-120x68.png" style="height: 50px; width: auto;" alt="Pixel Tapestry Logo">
         </a>
         <h1>Hello, my name is Rick.</h1>
         <p>I am an enthusiastic software developer with a passion for crafting exceptional web solutions.</p>
